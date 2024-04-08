@@ -1,0 +1,10 @@
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\bin\Debug\LABAA_6.exe.config
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\bin\Debug\LABAA_6.exe
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\bin\Debug\LABAA_6.pdb
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.csproj.AssemblyReference.cache
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.calc.resources
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.Properties.Resources.resources
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.csproj.GenerateResource.cache
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.csproj.CoreCompileInputs.cache
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.exe
+C:\Users\LK10725\Desktop\АиЯП\LABAA_6\LABAA_6\obj\Debug\LABAA_6.pdb
